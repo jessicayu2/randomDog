@@ -1,0 +1,23 @@
+.container {
+    position: relative;
+    width: 100%;
+    text-align: right;
+}
+
+.title {
+    text-align: center;
+}
+
+.doggy {
+    width: 50%;
+}
+
+.background-color {
+    background-color: #FFE169;
+}
+
+.newspaper {
+    -webkit-column-count: 3;
+    -moz-column-count: ; 
+    column-count: 3;
+}
