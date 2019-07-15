@@ -17,7 +17,33 @@
 }
 
 .newspaper {
-    -webkit-column-count: 3;
-    -moz-column-count: ; 
+    -webkit-column-count:  3;
+    -moz-column-count: 3; 
     column-count: 3;
+    text-align: left;
+    
 }
+
+.block {
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: #FFB469;
+    color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+   
+  }
+  
+  .block:hover {
+    background-color: white;
+    color: #FFB469;
+  }
+
+  .breeds {
+      display: block;
+      width: 500px;
+      margin: 0 auto;
+  }
